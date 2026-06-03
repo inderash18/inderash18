@@ -1,59 +1,87 @@
-# Hi, I'm Inderash 👋
+<div align="center">
 
-## About Me
+# Inderash
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Learner;Building+Real+World+Projects" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
 🎓 B.Sc CSDA Student
 
-💻 Aspiring Full Stack Developer
+💻 Full Stack Developer
 
-🤖 Interested in AI and Web Development
+🤖 AI Project Builder
 
-🚀 Currently learning MERN Stack
-
----
-
-## Skills
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Flask
-- SQL
-- Git & GitHub
+🌱 Learning MERN Stack
 
 ---
 
-## Featured Projects
+## 💻 Tech Stack
 
-### CampusFinder AI
-AI-powered Lost & Found System for Colleges
-
-### College Bus Tracking System
-Live bus tracking using driver's mobile GPS
-
-### College Portal System
-Role-based authentication and dashboard
-
-### College AI Sentiment Analyzer
-AI-based student feedback analysis
-
-### Digital Voting Machine
-Fingerprint verification voting system
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=inderash18&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inderash18&layout=compact)
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=inderash18&show_icons=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inderash18&layout=compact" />
+</p>
 
 ---
 
-## Connect With Me
+## 🔥 Contribution Streak
 
-GitHub: https://github.com/inderash18
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inderash18" />
+</p>
 
-LinkedIn: https://www.linkedin.com/in/inderash-m-9b2324321/
+---
 
-Portfolio: https://inderash-portfolio.vercel.app/
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=inderash18" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 CampusFinder AI
+AI-powered Lost & Found System
+
+### 🚌 College Bus Tracking System
+Real-time Bus Tracking Platform
+
+### 🏫 College Portal
+Role-based Authentication System
+
+### 📊 AI Sentiment Analyzer
+Student Feedback Analysis
+
+### 🗳️ Digital Voting Machine
+Fingerprint Verification Voting System
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inderash18" />
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
+
+[Portfolio](YOUR_PORTFOLIO_LINK)
+
+</div>
