@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=INDERASH&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=70" />
 </p>
@@ -105,7 +105,7 @@ MongoDB           ██████████░░░░░░░░░░ 5
 MERN Stack        ████████░░░░░░░░░░░░ 40%
 ````
 
----
+
 
 ## 🌐 Connect With Me
 
