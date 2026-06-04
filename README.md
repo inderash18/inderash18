@@ -1,15 +1,18 @@
+````md
 <p align="center">
-  <img src="gt650.jpg" width="50%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=INDERASH&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=70" />
 </p>
-<div align="center">🚀 INDERASH</div>
 
-<div align="center">
+<h1 align="center">😎 I'M INDERASH!</h1>
 
-### Full Stack Developer • AI Enthusiast • MERN Stack Learner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Project+Builder;Python+Developer;MERN+Stack+Learner;Building+Real+World+Projects" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Project+Builder;Python+Developer;MERN+Stack+Learner;Building+Real+World+Solutions;Open+Source+Learner" />
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=inderash18&label=PROFILE+VIEWS&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/inderash18?style=for-the-badge&color=8B5CF6"/>
+</p>
 
 ---
 
@@ -18,43 +21,32 @@
 
 <td width="60%">
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-```yaml
-name: Inderash
-role: Full Stack Developer
-education: B.Sc CSDA
-location: Tamil Nadu, India
+Digital Craftsman (Developer / Programmer)
 
-currently_learning:
-  - React
-  - Node.js
-  - MongoDB
-  - MERN Stack
+I am a Full Stack Developer and AI enthusiast passionate about building practical software solutions.
 
-interests:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Open Source
-  - System Design
+- 🎓 B.Sc Computer Science & Data Analytics
+- 💻 Full Stack Developer
+- 🤖 AI Enthusiast
+- 🚀 MERN Stack Learner
+- 🌱 Open Source Learner
+- 📚 Exploring System Design
 
-goal:
-  Become a Software Engineer
-```
+### 🔥 Currently Working On
 
-### 🎯 Current Focus
-
-* 🤖 Building AI-powered applications
-* 🚀 Developing real-world solutions
-* 💻 Mastering MERN Stack
-* 📚 Improving DSA & System Design
-* 🌱 Contributing to Open Source
+- 🤖 CampusFinder AI
+- 🚌 College Bus Tracking System
+- 🏫 College Portal System
+- 📊 AI Sentiment Analyzer
+- 🗳️ Digital Voting Machine
 
 </td>
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 
 </td>
 
@@ -65,170 +57,59 @@ goal:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,mysql,sqlite,java,tailwind,bootstrap,git,github,vscode,linux&perline=9"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,mysql,sqlite,java,git,github,vscode,tailwind,bootstrap,linux" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 CampusFinder AI
-
-AI-powered Lost & Found System
-
-✅ Image Matching
-✅ Smart Search
-✅ AI Chatbot
-✅ Flask Backend
-
-</td>
-
-<td width="50%">
-
-### 🚌 College Bus Tracker
-
-Real-Time GPS Tracking
-
-✅ Live Location
-✅ Student Dashboard
-✅ Mobile Friendly
-✅ Route Monitoring
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏫 College Portal System
-
-Role-Based Management
-
-✅ Authentication
-✅ Student Dashboard
-✅ Faculty Panel
-✅ Admin Controls
-
-</td>
-
-<td width="50%">
-
-### 📊 AI Sentiment Analyzer
-
-Student Feedback Analytics
-
-✅ NLP Processing
-✅ Sentiment Detection
-✅ Reports & Insights
-✅ AI Integration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🗳️ Digital Voting Machine
-
-Secure Voting System
-
-✅ Fingerprint Login
-✅ Vote Protection
-✅ Database Storage
-✅ Authentication
-
-</td>
-
-<td width="50%">
-
-### 🚀 Upcoming Projects
-
-Currently Building
-
-✅ MERN Applications
-✅ AI Tools
-✅ Portfolio Projects
-✅ Open Source Work
-
-</td>
-
-</tr>
-</table>
+| Project | Description |
+|----------|-------------|
+| 🤖 CampusFinder AI | AI-powered Lost & Found System |
+| 🚌 Bus Tracking System | Real-Time GPS Tracking |
+| 🏫 College Portal | Role-Based Authentication System |
+| 📊 AI Sentiment Analyzer | AI-Powered Feedback Analysis |
+| 🗳️ Digital Voting Machine | Fingerprint Verification System |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=inderash18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inderash18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=inderash18&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 🔥 Development Journey
+## 💻 Skill Progress
 
 ```text
-Python              ██████████████████░░ 90%
-Frontend            █████████████████░░░ 85%
-SQL                 █████████████████░░░ 85%
-JavaScript          ███████████████░░░░░ 75%
-Backend             ██████████████░░░░░░ 70%
-React               ██████████░░░░░░░░░░ 50%
-MongoDB             ██████████░░░░░░░░░░ 50%
-MERN Stack          ████████░░░░░░░░░░░░ 40%
-```
-
----
-
-## 🌟 Technologies I Work With
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-7C3AED?style=for-the-badge"/>
-
-</div>
+Python            ██████████████████░░ 90%
+Frontend          █████████████████░░░ 85%
+SQL               █████████████████░░░ 85%
+JavaScript        ███████████████░░░░░ 75%
+Backend           ██████████████░░░░░░ 70%
+React             ██████████░░░░░░░░░░ 50%
+MongoDB           ██████████░░░░░░░░░░ 50%
+MERN Stack        ████████░░░░░░░░░░░░ 40%
+````
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/inderash18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -239,27 +120,22 @@ MERN Stack          ████████░░░░░░░░░░░░
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>"Building the future one project at a time."</i>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=inderash18&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Building the Future, One Project at a Time ⭐
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,100:A78BFA"/>
+</p>
+```
