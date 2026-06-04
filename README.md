@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gt650.jpg" width="100%">
+  <img src="gt650.jpg" width="10%">
 </p>
 <div align="center">🚀 INDERASH</div>
 
